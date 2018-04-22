@@ -1,2 +1,5 @@
 # hello-world
-Introduction to GitHub
+
+Hello!
+
+This is to test branching functionality with GitHub.
